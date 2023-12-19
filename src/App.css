@@ -14,7 +14,7 @@ body {
 .bg_img {
   width: 100%;
   min-height: 100vh;
-  background: url(images/bg.jpg) no-repeat center center/cover;
+  background: url(images/weather6.png) no-repeat center center/cover;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -23,7 +23,8 @@ body {
 }
 
 .input {
-  background-color: rgba(255, 255, 255, 0.75);
+  background-color: rgba(255, 134, 73, 0.488);
+  border-radius: 25px;
 }
 
 .group {
@@ -34,7 +35,7 @@ body {
 }
 
 .city {
-  margin-top: 2rem;
+  margin-top: 3rem;
 }
 
 .city,
@@ -52,8 +53,8 @@ body {
 
 .box {
   padding: 1rem;
-  border-radius: 12px;
-  background-color: rgba(0, 0, 0, 0.75);
+  border-radius: 100px;
+  background-color: rgba(255, 134, 73, 0.488);
   width: 220px;
   text-align: center;
   display: flex;
@@ -77,6 +78,7 @@ body {
 
   .box,
   .input {
-    width: 70vw;
+    width: 90vw;
+    border-radius: 90px;
   }
 }
