@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sunnycloudyskys/static/css/main.cb692706.css",
+    "main.js": "/sunnycloudyskys/static/js/main.e91629ac.js",
+    "static/media/weather6.png": "/sunnycloudyskys/static/media/weather6.d2c919dedd5445920d56.png",
+    "index.html": "/sunnycloudyskys/index.html",
+    "main.cb692706.css.map": "/sunnycloudyskys/static/css/main.cb692706.css.map",
+    "main.e91629ac.js.map": "/sunnycloudyskys/static/js/main.e91629ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb692706.css",
+    "static/js/main.e91629ac.js"
+  ]
+}
